@@ -1,7 +1,7 @@
 {
   "url": "https://t.me/justdomainsbot", 
   "name": "JustDomain",
-  "iconUrl": "https://github.com/steparikov/just/blob/a1a457724e6e62cef52cb9e76c4bb4ec0adf7c35/icon.png",
-  "termsOfUseUrl": "https://steparikov.github.io/just/terms.html",
-  "privacyPolicyUrl": "https://steparikov.github.io/just/privacy.html"
+  "iconUrl": "https://raw.githubusercontent.com/steparikov/just/refs/heads/main/icon.png",
+  "termsOfUseUrl": "https://raw.githubusercontent.com/steparikov/just/refs/heads/main/terms.html",
+  "privacyPolicyUrl": "https://raw.githubusercontent.com/steparikov/just/refs/heads/main/privacy.html"
 }
